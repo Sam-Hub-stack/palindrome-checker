@@ -1,0 +1,25 @@
+.input{
+
+    border:solid,black;
+    width:150px;
+    border-radius: 7px;
+    height:35px;
+
+}
+.container{
+    margin-top:30px;
+    display:flex;
+    gap:20px;
+    margin-left:350px;
+    margin-right: 200px;
+    
+}
+button{
+    border:solid,rgb(77, 136, 199);
+    border-radius: 5px;
+    height:35px;
+}
+.head{
+
+    margin-left:300px;
+}
